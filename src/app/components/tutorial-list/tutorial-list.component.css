@@ -1,0 +1,9 @@
+.list {
+    text-align: left;
+    max-width: 750px;
+    margin: auto;
+  }
+  ::ng-deep .btn.btn-success{
+    color: #fff !important;
+    border-radius: 0px 5px 5px 0;
+}
